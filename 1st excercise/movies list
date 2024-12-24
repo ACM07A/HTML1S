@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Favorite All-Time Movies</title>
+</head>
+<body>
+    <h1>My Favorite All-Time Movies</h1>
+    <h2>A collection of the movies that have left an everlasting impression on me. From classics to modern masterpieces, these are my top picks!</h2>
+
+    <h3>1. Movie 1</h3>
+    <h4>A timeless classic that redefined storytelling with its breathtaking visuals and gripping plot.</h4>
+    <img src="images/movies1.webp" alt="Movie 1 Poster" width="300">
+
+    <h3>2. Movie 2</h3>
+    <h4>An epic tale of courage and friendship that has inspired generations.</h4>
+    <img src="images/movies1.webp" alt="Movie 2 Poster" width="300">
+
+    <h3>3. Movie 3</h3>
+    <h4>A heartwarming story filled with laughter, tears, and unforgettable moments.</h4>
+    <img src="images/movies1.webp" alt="Movie 3 Poster" width="300">
+
+    <h3>4. Movie 4</h3>
+    <h4>An action-packed thriller with twists and turns that keep you on the edge of your seat.</h4>
+    <img src="images/movies1.webp" alt="Movie 4 Poster" width="300">
+
+    <h3>5. Movie 5</h3>
+    <h4>A masterpiece of animation that brings characters to life in the most magical way.</h4>
+    <img src="images/movies1.webp" alt="Movie 5 Poster" width="300">
+
+    <h3>6. Movie 6</h3>
+    <h4>A groundbreaking science fiction film that challenges the limits of imagination.</h4>
+    <img src="images/movies1.webp" alt="Movie 6 Poster" width="300">
+
+    <h3>7. Movie 7</h3>
+    <h4>A historical drama that beautifully captures the essence of a bygone era.</h4>
+    <img src="images/movies1.webp" alt="Movie 7 Poster" width="300">
+
+    <h3>8. Movie 8</h3>
+    <h4>An enchanting musical with songs that stay in your heart forever.</h4>
+    <img src="images/movies1.webp" alt="Movie 8 Poster" width="300">
+
+    <h3>9. Movie 9</h3>
+    <h4>A fantasy adventure that takes you to a world beyond your wildest dreams.</h4>
+    <img src="images/movies1.webp" alt="Movie 9 Poster" width="300">
+
+    <h3>10. Movie 10</h3>
+    <h4>An emotional rollercoaster that portrays the beauty and fragility of human life.</h4>
+    <img src="images/movies1.webp" alt="Movie 10 Poster" width="300">
+</body>
+</html>

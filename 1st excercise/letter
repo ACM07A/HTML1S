@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Letter Example</title>
+</head>
+<body>
+    <h1>John Doe</h1>
+    <p>
+        123 Main Street<br />
+        Springfield, IL 62704<br />
+        USA
+    </p>
+    <hr />
+    <p>
+        Dear Sir/Madam,<br /><br />
+        I am writing to express my interest in the open position at your esteemed organization. 
+        With over five years of experience in the technology sector, I have honed my skills in software development and project management. 
+        I am confident that my expertise would contribute positively to your team.
+    </p>
+    <p>
+        Please feel free to contact me at your earliest convenience. 
+        I look forward to the opportunity to discuss how my skills align with your organization's needs.
+    </p>
+    <p>
+        Thank you for considering my application.<br /><br />
+        Sincerely,<br />
+        John Doe
+    </p>
+</body>
+</html>
